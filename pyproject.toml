@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-trashnodes-downloadhuggingface"
+description = "ComfyUI-TrashNodes-DownloadHuggingface is a ComfyUI node designed to facilitate the download of models you have just trained and uploaded to Hugging Face. This node is particularly useful for users who employ Google Colab for training and need to quickly download their models for deployment."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/adbrasi/ComfyUI-TrashNodes-DownloadHuggingface"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-TrashNodes-DownloadHuggingface"
+Icon = ""
